@@ -106,4 +106,5 @@ body{
   
   .column {
     margin-right: 10px; /* Espacio entre columnas, puedes ajustarlo según tus necesidades */
+    margin-top: 20px;
   }
