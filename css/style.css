@@ -99,6 +99,7 @@ body{
 .container {
     display: flex;
     flex-direction: column;
+    padding-top:2%;
   }
   
   .row {
